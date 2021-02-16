@@ -12,7 +12,7 @@ El estudiante analizará, comprenderá e implementará algoritmos de aprendizaje
 ## Contenido del curso
 | No.        | Tema           | Conceptos |Código  |  Material complementario|
 | :-------------: |:-------------| :-------------|:-----:| :-----|
-| 1.              |              |               |       |       | 
+| 1.              | Introducción a la inteligencia artificial| Historia y fundamentos |   --   | Capítulo 1 - Artificial Intelligence a modern approach | 
 
 
 ##### Última actualización: 16 de febrero de 2021
